@@ -1,8 +1,7 @@
 ## Philosopher's Stone
-**Philosopher's Stone** is an 64bit operating system project to harden my knowledge about system programming. This project is based on MINT64 OS, which is described on the book series "The Principles and Structures of 64bit Multicore Operating System"(Kor: 64비트 멀티코어 OS 원리와 구조) written by Seunghoon Han. 
+**Philosopher's Stone** is an 64bit operating system project to harden my knowledge about system programming. This project is motivated from the open source operating system **MINT64**, which is described as example of the book series "The Principles and Structures of 64bit Multicore Operating System"(Kor: 64비트 멀티코어 OS 원리와 구조) written by Seunghoon Han. 
 
 ## License
-
 Kernel source of Philosopher's Stone is licensed under MIT License.
 
 Copyright 2019 PS64 Project
