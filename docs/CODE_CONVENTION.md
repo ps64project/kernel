@@ -16,3 +16,6 @@ We do not recommend to use underscore as the first or the last character of the 
 
 ## Indentations
 4-Spaces Indent is recommended. Before you commit your code, please check the indentation settings of your editor/IDE.
+
+## Brackets
+Allman style alignment is required for the brackets. Google or K&R Style is not allowed.
