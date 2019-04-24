@@ -8,7 +8,7 @@ The kernel design of Philosopher's Stone follows typical [Microkernel Architectu
     <img src="docs/kernel_architecture_diagram.png">
 </p>
 
-Unlike linux's monolithic design, Philosopher's Stone put only three features into kernel while others are separated as independent module. Kernel only works with foundational resource such as Memory, Task Scheduling, and Basic Interprocess Communication. Other features are placed on Privileged space, which provides system interface to user to utilize system. 
+Unlike linux's monolithic design, Philosopher's Stone has only three features while others are separated as independent module. Kernel works with foundational resources such as Memory, Task Scheduling, and Basic Interprocess Communication. Other features are placed on Privileged space, which provides system interface to user to utilize system. 
 
 ## License
 Kernel source of Philosopher's Stone is licensed under MIT License.
