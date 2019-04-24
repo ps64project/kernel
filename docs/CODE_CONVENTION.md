@@ -4,6 +4,8 @@ This page has several rules when contribute codes to this repository.
 ## Language Standard
 In **Project Philosopher's Stone**, contributors who codes with C++ should comply the lastest standard unless its cost overs to code with previous one.
 
+ * Use **module** insted of **header**.
+
 ## Naming
 Every variables, functions, classes, macros, and namespaces must be named in clear, easy to understand. **snake notation** is used for C++ codes in this repository.
 For example, If there were some spaces in the name, replace with _(underscore). Every characters must be typed in small letter like this: `flag`, `file_ptr` however, SNAKE(not snake) notation is required for macros like this: `VGA_ADDRESS`, `SYSTEM_PREFIX`
