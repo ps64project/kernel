@@ -4,7 +4,7 @@ This page has several rules when contribute codes to this repository.
 ## Language Standard
 In **Project Philosopher's Stone**, contributors who codes with C++ should comply the lastest standard unless its cost overs to code with previous one.
 
- * Use **module** insted of **header**.
+ * Use **module** instead of **header**.
 
 ## Naming
 Every variables, functions, classes, macros, and namespaces must be named in clear, easy to understand. **snake notation** is used for C++ codes in this repository.
